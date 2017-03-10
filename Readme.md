@@ -184,6 +184,8 @@ Improverished `UIImage` subset:
 	    self.imageView.image = image;
 	    [self logMetaDataFromImage:image];
 
+照相方向
+http://feihu.me/blog/2015/how-to-handle-image-orientation-on-iOS/
 
-
+https://my.oschina.net/petsatan/blog/403815
  
